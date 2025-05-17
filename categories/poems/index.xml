@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poems on 🏠</title>
-    <link>https://appapappa.com/categories/poems/</link>
+    <link>https://arunrajappa.github.io/appapappa-site/categories/poems/</link>
     <description>Recent content in Poems on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Mar 2014 06:51:41 +0530</lastBuildDate>
-    <atom:link href="https://appapappa.com/categories/poems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arunrajappa.github.io/appapappa-site/categories/poems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marjorie Gluten: A poem</title>
-      <link>https://appapappa.com/writing/gluten/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/writing/gluten/</link>
       <pubDate>Wed, 12 Mar 2014 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/writing/gluten/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/essays/gluten.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/gluten.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://arunrajappa.github.io/appapappa-site/writing/gluten/</guid>
+      <description>&lt;iframe src=&#34;https://arunrajappa.github.io/appapappa-site/essays/gluten.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://arunrajappa.github.io/appapappa-site/essays/gluten.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>

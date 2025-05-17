@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 🏠</title>
-    <link>https://appapappa.com/categories/</link>
+    <link>https://arunrajappa.github.io/appapappa-site/categories/</link>
     <description>Recent content in Categories on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 May 2025 19:51:41 +0530</lastBuildDate>
-    <atom:link href="https://appapappa.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arunrajappa.github.io/appapappa-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>https://appapappa.com/categories/syntax/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/categories/syntax/</link>
       <pubDate>Thu, 15 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/syntax/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Demo</title>
-      <link>https://appapappa.com/categories/theme-demo/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/categories/theme-demo/</link>
       <pubDate>Thu, 15 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/theme-demo/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/categories/theme-demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>https://appapappa.com/categories/workshop/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/categories/workshop/</link>
       <pubDate>Fri, 02 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/workshop/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/categories/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Essays</title>
-      <link>https://appapappa.com/categories/essays/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/categories/essays/</link>
       <pubDate>Fri, 02 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/essays/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/categories/essays/</guid>
       <description></description>
     </item>
     <item>
       <title>Article</title>
-      <link>https://appapappa.com/categories/article/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/categories/article/</link>
       <pubDate>Sun, 27 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/article/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/categories/article/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>https://appapappa.com/categories/podcast/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/categories/podcast/</link>
       <pubDate>Mon, 21 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/podcast/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/categories/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Poems</title>
-      <link>https://appapappa.com/categories/poems/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/categories/poems/</link>
       <pubDate>Wed, 12 Mar 2014 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/poems/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/categories/poems/</guid>
       <description></description>
     </item>
   </channel>

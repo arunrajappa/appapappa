@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syntax on 🏠</title>
-    <link>https://appapappa.com/categories/syntax/</link>
+    <link>https://arunrajappa.github.io/appapappa-site/categories/syntax/</link>
     <description>Recent content in Syntax on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 May 2025 19:51:41 +0530</lastBuildDate>
-    <atom:link href="https://appapappa.com/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arunrajappa.github.io/appapappa-site/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On my TOREAD list for 2025</title>
-      <link>https://appapappa.com/reading/toread/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/reading/toread/</link>
       <pubDate>Thu, 15 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/toread/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/reading/toread/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Books on my TOREAD list for 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📘 Lonesome Dove – Larry McMurtry&#xA;Epic Western of love, loss, and legacy. Heart-forward and unforgettable.&#xA;(Reading before your birthday)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📕 Life and Fate – Vasily Grossman&#xA;A war novel that wrestles with power, morality, and humanity on a massive scale.&#xA;(Reading before your birthday)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📗 In Search of Lost Time – Marcel Proust&#xA;A layered meditation on memory, identity, and the passing of time.&#xA;(Reading from August to December)&lt;/p&gt;</description>
     </item>
     <item>
       <title>What I am reading</title>
-      <link>https://appapappa.com/reading/reading/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/reading/reading/</link>
       <pubDate>Thu, 15 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reading/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/reading/reading/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;m reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Godel, Escher, Bach&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>What I have recently read</title>
-      <link>https://appapappa.com/reading/read/</link>
+      <link>https://arunrajappa.github.io/appapappa-site/reading/read/</link>
       <pubDate>Thu, 15 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/read/</guid>
+      <guid>https://arunrajappa.github.io/appapappa-site/reading/read/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;ve recently completed reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A House for Mr Biswas&lt;/li&gt;&#xA;&lt;li&gt;The Glass Bead Game&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
