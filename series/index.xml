@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 🏠</title>
-    <link>https://arunrajappa.github.io/appapappa-site/series/</link>
+    <link>https://appapappa.com/series/</link>
     <description>Recent content in Series on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 May 2025 19:51:41 +0530</lastBuildDate>
-    <atom:link href="https://arunrajappa.github.io/appapappa-site/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Demo</title>
-      <link>https://arunrajappa.github.io/appapappa-site/series/theme-demo/</link>
+      <link>https://appapappa.com/series/theme-demo/</link>
       <pubDate>Thu, 15 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/series/theme-demo/</guid>
+      <guid>https://appapappa.com/series/theme-demo/</guid>
       <description></description>
     </item>
   </channel>

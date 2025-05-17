@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🏠</title>
-    <link>https://arunrajappa.github.io/appapappa-site/playlists/</link>
+    <link>https://appapappa.com/playlists/</link>
     <description>Recent content on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://arunrajappa.github.io/appapappa-site/playlists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/playlists/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

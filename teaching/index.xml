@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on 🏠</title>
-    <link>https://arunrajappa.github.io/appapappa-site/teaching/</link>
+    <link>https://appapappa.com/teaching/</link>
     <description>Recent content in Teaching on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 May 2025 19:51:41 +0530</lastBuildDate>
-    <atom:link href="https://arunrajappa.github.io/appapappa-site/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fun with FundAIs!</title>
-      <link>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_nexus/</link>
+      <link>https://appapappa.com/teaching/ai_workshop_nexus/</link>
       <pubDate>Fri, 02 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_nexus/</guid>
-      <description>&lt;p&gt;Did a workshop for my friends at Nexus Consulting on how to use Artificial Intelligence in their work for Indica and other quizzes&amp;hellip;got a nice photo with the team, here:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://arunrajappa.github.io/appapappa-site/teaching/nexus_1.jpg&#34; alt=&#34;Nexus&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I used &lt;a href=&#34;https://excalidraw.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ExcaliDraw&lt;/a&gt; for the workshop, and Excalidraw file can be downloaded from here &lt;a href=&#34;https://arunrajappa.github.io/appapappa-site/teaching/nexus_workshop.excalidraw&#34; &gt;Excali for Nexus&lt;/a&gt; (save the file, and open with Excalidraw)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://arunrajappa.github.io/appapappa-site/teaching/nexus_workshop.excalidraw.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://appapappa.com/teaching/ai_workshop_nexus/</guid>
+      <description>&lt;p&gt;Did a workshop for my friends at Nexus Consulting on how to use Artificial Intelligence in their work for Indica and other quizzes&amp;hellip;got a nice photo with the team, here:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://appapappa.com/teaching/nexus_1.jpg&#34; alt=&#34;Nexus&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I used &lt;a href=&#34;https://excalidraw.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ExcaliDraw&lt;/a&gt; for the workshop, and Excalidraw file can be downloaded from here &lt;a href=&#34;https://appapappa.com/teaching/nexus_workshop.excalidraw&#34; &gt;Excali for Nexus&lt;/a&gt; (save the file, and open with Excalidraw)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://appapappa.com/teaching/nexus_workshop.excalidraw.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Thought Whisperer</title>
-      <link>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_streamalive/</link>
+      <link>https://appapappa.com/teaching/ai_workshop_streamalive/</link>
       <pubDate>Thu, 01 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_streamalive/</guid>
-      <description>&lt;p&gt;Did a workshop for my friends at StreamAlive on how to get better at prompting, called &amp;ldquo;The Thought Whisperer&amp;rdquo;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ud_sM-P0eRI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;https://arunrajappa.github.io/appapappa-site/teaching/thought_whisperer.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://appapappa.com/teaching/ai_workshop_streamalive/</guid>
+      <description>&lt;p&gt;Did a workshop for my friends at StreamAlive on how to get better at prompting, called &amp;ldquo;The Thought Whisperer&amp;rdquo;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ud_sM-P0eRI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;https://appapappa.com/teaching/thought_whisperer.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Kaizala: Zero to One Hundred!</title>
-      <link>https://arunrajappa.github.io/appapappa-site/teaching/talk_kaizala/</link>
+      <link>https://appapappa.com/teaching/talk_kaizala/</link>
       <pubDate>Mon, 21 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/teaching/talk_kaizala/</guid>
+      <guid>https://appapappa.com/teaching/talk_kaizala/</guid>
       <description>&lt;p&gt;I spoke with Shreyas about building Kaizala&amp;hellip;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4eSBegab7-c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>AI could be Kriti-cal!</title>
-      <link>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_2/</link>
+      <link>https://appapappa.com/teaching/ai_workshop_2/</link>
       <pubDate>Sat, 05 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_2/</guid>
-      <description>&lt;p&gt;Kanchuki &amp;amp; I did a workshop on Artificial Intelligence with the Kriti team, including several government school computer science teachers from Hyderabad&amp;hellip;&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://arunrajappa.github.io/appapappa-site/teaching/ai4all_2.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://arunrajappa.github.io/appapappa-site/teaching/ai4all_2.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/teaching/ai_workshop_2/</guid>
+      <description>&lt;p&gt;Kanchuki &amp;amp; I did a workshop on Artificial Intelligence with the Kriti team, including several government school computer science teachers from Hyderabad&amp;hellip;&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://appapappa.com/teaching/ai4all_2.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/teaching/ai4all_2.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>With a little help from my friends!</title>
-      <link>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_1/</link>
+      <link>https://appapappa.com/teaching/ai_workshop_1/</link>
       <pubDate>Sat, 22 Mar 2025 16:00:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/teaching/ai_workshop_1/</guid>
-      <description>&lt;p&gt;Kanchuki &amp;amp; I conducted our first workshop on Artificial Intelligence to an audience of our guinea pig friends, who were fantastic!&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://arunrajappa.github.io/appapappa-site/teaching/ai4all_1.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://arunrajappa.github.io/appapappa-site/teaching/ai4all_1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/teaching/ai_workshop_1/</guid>
+      <description>&lt;p&gt;Kanchuki &amp;amp; I conducted our first workshop on Artificial Intelligence to an audience of our guinea pig friends, who were fantastic!&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://appapappa.com/teaching/ai4all_1.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/teaching/ai4all_1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>My product management journey</title>
-      <link>https://arunrajappa.github.io/appapappa-site/teaching/talk_building_products/</link>
+      <link>https://appapappa.com/teaching/talk_building_products/</link>
       <pubDate>Thu, 09 May 2024 19:51:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/teaching/talk_building_products/</guid>
+      <guid>https://appapappa.com/teaching/talk_building_products/</guid>
       <description>&lt;p&gt;I spoke with my friend James Hsu about my product management journey&amp;hellip;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/f6-jdJ9_UCU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
   </channel>

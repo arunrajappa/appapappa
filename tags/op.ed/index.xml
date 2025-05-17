@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Op.ed on 🏠</title>
-    <link>https://arunrajappa.github.io/appapappa-site/tags/op.ed/</link>
+    <link>https://appapappa.com/tags/op.ed/</link>
     <description>Recent content in Op.ed on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Apr 2025 19:51:41 +0530</lastBuildDate>
-    <atom:link href="https://arunrajappa.github.io/appapappa-site/tags/op.ed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/tags/op.ed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding MCP: Op Ed</title>
-      <link>https://arunrajappa.github.io/appapappa-site/writing/understanding_mcp/</link>
+      <link>https://appapappa.com/writing/understanding_mcp/</link>
       <pubDate>Sun, 27 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://arunrajappa.github.io/appapappa-site/writing/understanding_mcp/</guid>
-      <description>&lt;iframe src=&#34;https://arunrajappa.github.io/appapappa-site/essays/understanding_mcp.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://arunrajappa.github.io/appapappa-site/essays/understanding_mcp.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;&#xD;&#xA;&lt;!-- &#xD;&#xA;&lt;embed src=&#34;https://arunrajappa.github.io/appapappa-site/essays/understanding_mcp.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;&#xD;&#xA;&gt;</description>
+      <guid>https://appapappa.com/writing/understanding_mcp/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;&#xD;&#xA;&lt;!-- &#xD;&#xA;&lt;embed src=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;&#xD;&#xA;&gt;</description>
     </item>
   </channel>
 </rss>
