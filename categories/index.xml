@@ -6,8 +6,15 @@
     <description>Recent content in Categories on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 10:51:41 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 04:00:41 +0530</lastBuildDate>
     <atom:link href="https://appapappa.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://appapappa.com/categories/music/</link>
+      <pubDate>Tue, 20 May 2025 04:00:41 +0530</pubDate>
+      <guid>https://appapappa.com/categories/music/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Workshop</title>
       <link>https://appapappa.com/categories/workshop/</link>
@@ -20,13 +27,6 @@
       <link>https://appapappa.com/categories/essays/</link>
       <pubDate>Mon, 19 May 2025 06:51:41 +0530</pubDate>
       <guid>https://appapappa.com/categories/essays/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>https://appapappa.com/categories/music/</link>
-      <pubDate>Sat, 17 May 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/music/</guid>
       <description></description>
     </item>
     <item>
