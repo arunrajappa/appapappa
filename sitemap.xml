@@ -2,35 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://appapappa.com/categories/books/</loc>
-    <lastmod>2025-05-26T06:51:41+05:30</lastmod>
+    <loc>https://appapappa.com/</loc>
+    <lastmod>2025-06-02T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/playlists/</loc>
+    <lastmod>2025-06-02T16:00:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/categories/</loc>
+    <lastmod>2025-05-29T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/writing/old_coders/</loc>
+    <lastmod>2025-05-29T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/categories/poems/</loc>
+    <lastmod>2025-05-29T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/tags/reflective/</loc>
+    <lastmod>2025-05-29T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/tags/</loc>
+    <lastmod>2025-05-29T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/writing/</loc>
+    <lastmod>2025-05-29T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/playlists/rock_1998/</loc>
+    <lastmod>2025-05-28T08:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/categories/music/</loc>
+    <lastmod>2025-05-28T08:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/tags/rock/</loc>
+    <lastmod>2025-05-28T08:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/categories/books/</loc>
     <lastmod>2025-05-26T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/tags/completed/</loc>
     <lastmod>2025-05-26T06:51:41+05:30</lastmod>
   </url><url>
-    <loc>https://appapappa.com/</loc>
-    <lastmod>2025-05-26T06:51:41+05:30</lastmod>
-  </url><url>
     <loc>https://appapappa.com/reading/</loc>
-    <lastmod>2025-05-26T06:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/tags/</loc>
     <lastmod>2025-05-26T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/reading/reviews/review1/</loc>
     <lastmod>2025-05-26T06:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/categories/music/</loc>
-    <lastmod>2025-05-20T04:00:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/playlists/</loc>
-    <lastmod>2025-05-20T04:00:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/tags/rock/</loc>
-    <lastmod>2025-05-20T04:00:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/playlists/raven_rock-copy/</loc>
     <lastmod>2025-05-20T04:00:41+05:30</lastmod>
@@ -46,9 +61,6 @@
   </url><url>
     <loc>https://appapappa.com/categories/workshop/</loc>
     <lastmod>2025-05-19T10:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/writing/</loc>
-    <lastmod>2025-05-19T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/playlists/best_indian_hip_hop/</loc>
     <lastmod>2025-05-17T16:00:41+05:30</lastmod>
@@ -84,9 +96,6 @@
     <lastmod>2025-05-02T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/tags/personal/</loc>
-    <lastmod>2025-05-02T06:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/tags/reflective/</loc>
     <lastmod>2025-05-02T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/teaching/ai_workshop_streamalive/</loc>
@@ -165,9 +174,6 @@
     <lastmod>2024-02-18T16:00:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/writing/gluten/</loc>
-    <lastmod>2014-03-12T06:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/categories/poems/</loc>
     <lastmod>2014-03-12T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/me/</loc>
