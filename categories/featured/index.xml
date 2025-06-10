@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on 🏠</title>
+    <link>https://appapappa.com/categories/featured/</link>
+    <description>Recent content in Featured on 🏠</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jun 2025 06:39:41 +0530</lastBuildDate>
+    <atom:link href="https://appapappa.com/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview in PC Quest</title>
+      <link>https://appapappa.com/teaching/pcq/</link>
+      <pubDate>Tue, 10 Jun 2025 06:39:41 +0530</pubDate>
+      <guid>https://appapappa.com/teaching/pcq/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/teaching/pcq.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/teaching/pcq.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+    </item>
+  </channel>
+</rss>
