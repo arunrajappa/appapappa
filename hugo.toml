@@ -1,0 +1,120 @@
+baseURL = "https://appapappa.com/"
+languageCode = "en-us"
+title = "🏠"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  author = "@appa"
+  info = "author.  product guy. dad."
+  description = "appapappa"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  since = 1975
+  enableTwemoji = true
+  colorScheme = "light"
+  hidecolorschemetoggle = true
+  showMeta = true
+  show_reading_time = false
+  show_post_date = true
+  show_post_tags = true
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/arunrajappa/"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-x-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/appa/"
+
+[[params.social]]
+  name = "Pinterest"
+  icon = "fa-brands fa-pinterest fa-2x"
+  weight = 3
+  url = "https://pin.it/5MQrB38Bm"
+
+
+[[params.social]]
+  name = "Spotify"
+  icon = "fa-brands fa-spotify fa-2x"
+  weight = 3
+  url = "https://open.spotify.com/user/31qqb7hcbgqq37uj35shou7efp5q?si=ebf585dd253345a0"
+
+[[params.social]]
+  name = "Substack"
+  icon = "fas fa-newspaper fa-2x"
+  weight = 3
+  url = "https://arunrajappa.substack.com/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/arun-rajappa-bb9a822/"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[menu]
+  [[menu.main]]
+    name = "writing"
+    url = "/writing/"
+    weight = 1
+
+  [[menu.main]]
+    name = "teaching"
+    url = "/teaching/"
+    weight = 2
+
+  [[menu.main]]
+    name = "building"
+    url = "/building/"
+    weight = 3
+
+   [[menu.main]]
+    name = "pins"
+    url = "/pins/"
+    weight = 4   
+
+
+  [[menu.main]]
+    name = "reading"
+    url = "/reading/"
+    weight = 5
+
+
+   [[menu.main]]
+    name = "playlists"
+    url = "/playlists/"
+    weight = 6    
+
+   [[menu.main]]
+    name = "interests"
+    url = "/interests/"
+    weight = 7    
+
+   [[menu.main]]
+    name = "me"
+    url = "/me/"
+    weight = 8    
