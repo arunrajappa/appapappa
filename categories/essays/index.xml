@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essays on 🏠</title>
-    <link>http://localhost:1313/categories/essays/</link>
+    <link>https://appapappa.com/categories/essays/</link>
     <description>Recent content in Essays on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jun 2025 06:51:41 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/essays/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/categories/essays/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>West Sikkim: Trip to Pelling, Yuksom, Ravangla</title>
-      <link>http://localhost:1313/writing/old_coders-copy/</link>
+      <link>https://appapappa.com/writing/old_coders-copy/</link>
       <pubDate>Sat, 07 Jun 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/old_coders-copy/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/west_sikkim.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/west_sikkim.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/old_coders-copy/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/west_sikkim.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/west_sikkim.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Human AI, Machine AI: A letter</title>
-      <link>http://localhost:1313/writing/human_machine_ai/</link>
+      <link>https://appapappa.com/writing/human_machine_ai/</link>
       <pubDate>Fri, 02 May 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/human_machine_ai/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/human_machine_ai.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/human_machine_ai.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/human_machine_ai/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/human_machine_ai.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/human_machine_ai.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Useless Fellows: An essay</title>
-      <link>http://localhost:1313/writing/useless_fellows/</link>
+      <link>https://appapappa.com/writing/useless_fellows/</link>
       <pubDate>Mon, 21 Apr 2025 06:39:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/useless_fellows/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/useless_fellows.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/useless_fellows.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/useless_fellows/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/useless_fellows.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/useless_fellows.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
