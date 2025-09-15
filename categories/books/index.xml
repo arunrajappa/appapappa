@@ -2,73 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on 🏠</title>
-    <link>https://appapappa.com/categories/books/</link>
+    <link>http://localhost:1313/categories/books/</link>
     <description>Recent content in Books on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Aug 2025 06:51:41 +0530</lastBuildDate>
-    <atom:link href="https://appapappa.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 19:51:41 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I have recently read</title>
+      <link>http://localhost:1313/reading/read/</link>
+      <pubDate>Sun, 14 Sep 2025 19:51:41 +0530</pubDate>
+      <guid>http://localhost:1313/reading/read/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;ve recently completed reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review2&#34; &gt;A House for Mr Biswas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review3&#34; &gt;The Glass Bead Game&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review1&#34; &gt;The Passion According to G.H.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review4&#34; &gt;2666, Bolano&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review5&#34; &gt;Lonesome Dove, McMurtry&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review6&#34; &gt;4 short books&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review7&#34; &gt;Mother Mary Comes to Me, Arundhati Roy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Mother Mary Comes to Me</title>
+      <link>http://localhost:1313/reading/reviews/review7/</link>
+      <pubDate>Mon, 01 Sep 2025 06:51:41 +0530</pubDate>
+      <guid>http://localhost:1313/reading/reviews/review7/</guid>
+      <description>&lt;p&gt;Brilliant memoir / biography by Arundhati Roy. She can write! Oh my God - wish I could write like that. Her portrait of her mother, Mary Roy, through a biographical recounting of her own life was superb. Took me back to Delhi in the 80&amp;rsquo;s and 90&amp;rsquo;s, a lot seemed similar, though much of her book was set in the &amp;lsquo;60&amp;rsquo;s and &amp;lsquo;70&amp;rsquo;s.&lt;/p&gt;&#xA;&lt;p&gt;Ended up watching the brilliant &amp;ldquo;In Which Annie Gives It Those Ones&amp;rdquo; after reading the book.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>4 short books</title>
-      <link>https://appapappa.com/reading/reviews/review6/</link>
+      <link>http://localhost:1313/reading/reviews/review6/</link>
       <pubDate>Sun, 10 Aug 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review6/</guid>
+      <guid>http://localhost:1313/reading/reviews/review6/</guid>
       <description>&lt;p&gt;Read 4 short books:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The sense of an ending, Julian Barnes: Good, but a bit grim, not to my taste&lt;/li&gt;&#xA;&lt;li&gt;Zorba the Greek: Very Good, and a lot of fun&lt;/li&gt;&#xA;&lt;li&gt;The Razors Edge, Somerset Maugham: Really really good, what writing!&lt;/li&gt;&#xA;&lt;li&gt;Essays after 80, Donald Hall: Fantastic essays&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Lonesome Dove, McMurtry</title>
-      <link>https://appapappa.com/reading/reviews/review5/</link>
+      <link>http://localhost:1313/reading/reviews/review5/</link>
       <pubDate>Mon, 07 Jul 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review5/</guid>
+      <guid>http://localhost:1313/reading/reviews/review5/</guid>
       <description>&lt;p&gt;Read &lt;strong&gt;Lonesome Dove&lt;/strong&gt; recommended to me by my friends Akshay &amp;amp; Shahana over the last few weeks&amp;hellip; it&amp;rsquo;s a long book, adding to the list of long books I&amp;rsquo;ve read this year.&lt;/p&gt;&#xA;&lt;p&gt;I enjoyed the book, but I can&amp;rsquo;t say I got much out of it - it&amp;rsquo;s a rambling story, a bit simple, that captures your attention and keeps you reading. I read most of it during my trip to LA &amp;amp; Phoenix, which made the book come to life more somehow, being set close to the Mexican border (at least to start!).&lt;/p&gt;</description>
     </item>
     <item>
       <title>2666, Roberto Bolano</title>
-      <link>https://appapappa.com/reading/reviews/review4/</link>
+      <link>http://localhost:1313/reading/reviews/review4/</link>
       <pubDate>Tue, 10 Jun 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review4/</guid>
+      <guid>http://localhost:1313/reading/reviews/review4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Read this for the most part during the trip to Sikkim. Read a lot of it in the car, on my Kindle.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;2666 was weird. the writing style is simple and captivating, and so much is happening (funnnily, i thought about the various sub-stories and meanderings in the mahabharata). the book about the murders of the women was a gut-punch. the book was like a rogue river, it flowed whereever it wanted, senseless and yet singular. brilliant and headachy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Passion According to G.H, Clarice Lispector</title>
-      <link>https://appapappa.com/reading/reviews/review1/</link>
+      <link>http://localhost:1313/reading/reviews/review1/</link>
       <pubDate>Mon, 26 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review1/</guid>
+      <guid>http://localhost:1313/reading/reviews/review1/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Finished reading on 26/06/2025&lt;/li&gt;&#xA;&lt;li&gt;Brilliant book, 5 stars, real gut-punch&lt;/li&gt;&#xA;&lt;li&gt;Disgustingly good short book&lt;/li&gt;&#xA;&lt;li&gt;Disturbing, awakening&lt;/li&gt;&#xA;&lt;li&gt;Themes/Thoughts:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Living in the moment / action orientation, rather than &amp;ldquo;hope&amp;rdquo; which is hopeless and in the future&lt;/li&gt;&#xA;&lt;li&gt;The Sacred in everything, even (and especially in the profane)&lt;/li&gt;&#xA;&lt;li&gt;To not construct concepts through words (like &amp;lsquo;beauty&amp;rsquo;, etc.)&lt;/li&gt;&#xA;&lt;li&gt;To reject sensitivity and sentimentality&lt;/li&gt;&#xA;&lt;li&gt;To know what you need, and to fulfill it: To strive, to live&lt;/li&gt;&#xA;&lt;li&gt;To not be heroic, and to take tiny steps&lt;/li&gt;&#xA;&lt;li&gt;To be inhuman, beyond human, alive&lt;/li&gt;&#xA;&lt;li&gt;To be &amp;ldquo;independed&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Some quotes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Cast of this humanization&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;This obsession with the future&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;This obsession with naming things&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Organizing -&amp;gt; leading to not experiencing&lt;/li&gt;&#xA;&lt;li&gt;Material world&lt;/li&gt;&#xA;&lt;li&gt;The bordom / in-between is reality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Key concepts&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The limits of langauge (speaking the unknowable)&lt;/li&gt;&#xA;&lt;li&gt;The collapse of identity&lt;/li&gt;&#xA;&lt;li&gt;The obsession with form and destruction&lt;/li&gt;&#xA;&lt;li&gt;Sacred in the profane&lt;/li&gt;&#xA;&lt;li&gt;Time and being&lt;/li&gt;&#xA;&lt;li&gt;Death and resurrection&lt;/li&gt;&#xA;&lt;li&gt;Asking v/s Being&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Related to&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Neitsche, Spinoza&lt;/li&gt;&#xA;&lt;li&gt;Panentheism, Buddhism&lt;/li&gt;&#xA;&lt;li&gt;Confucious and Dao resolution&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>What I am reading</title>
-      <link>https://appapappa.com/reading/reading/</link>
+      <link>http://localhost:1313/reading/reading/</link>
       <pubDate>Fri, 16 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reading/</guid>
+      <guid>http://localhost:1313/reading/reading/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;m reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Godel, Escher, Bach&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>The Glass Bead Game</title>
-      <link>https://appapappa.com/reading/reviews/review3/</link>
+      <link>http://localhost:1313/reading/reviews/review3/</link>
       <pubDate>Sun, 11 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review3/</guid>
+      <guid>http://localhost:1313/reading/reviews/review3/</guid>
       <description>&lt;p&gt;My quick jotting down / notes&amp;hellip; and discussions with chatgpt!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;few things stood out:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;age of feuilleton felt very relatable to what&amp;rsquo;s happening with memes and instagram etc. right now&lt;/li&gt;&#xA;&lt;li&gt;his friends - tegularius, designori, and his influences - jacobius, music master were written well.&lt;/li&gt;&#xA;&lt;li&gt;i could see some of myself in the characters themselves: my leaving microsoft and the conversations i had then with my mentors felt parallel to the last chapter, esp. because i left at the peak; i could also relate to tegularius (overly intellectual, not in the world) and to designori (worn down by the cares of the world, stopping meditation, drinking more)&amp;hellip; it was fascinating&amp;hellip;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Going back to the book, The Glass Bead Game, the book seems to be written by a fairly modest biographer. Is this ironic? It makes the book harder to read than, let&amp;rsquo;s say, Siddhartha by Hermann Hesse. So clearly Hermann Hesse is a brilliant writer, but was affecting the tone of a modest biographer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A House for Mr. Biswas</title>
-      <link>https://appapappa.com/reading/reviews/review2/</link>
+      <link>http://localhost:1313/reading/reviews/review2/</link>
       <pubDate>Fri, 02 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review2/</guid>
+      <guid>http://localhost:1313/reading/reviews/review2/</guid>
       <description>&lt;p&gt;My quick jotting down&amp;hellip; &amp;ldquo;I completed reading A House for Mr. Biswas. It was really good. I really liked how the story was just constructed really beautifully with humor, pathos, disgust, sadness. It was a great humanist novel: struggling, struggling for more, despite circumstances that hold you back, wanting more, rebelling against custom, not knowing why and yet trying to find your own path. I could imagine it made into a great movie, by someone like Satyajit Ray&amp;hellip; overall, I loved the book.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>What I have recently read</title>
-      <link>https://appapappa.com/reading/read/</link>
-      <pubDate>Thu, 01 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/read/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;ve recently completed reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review2&#34; &gt;A House for Mr Biswas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review3&#34; &gt;The Glass Bead Game&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review1&#34; &gt;The Passion According to G.H.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review4&#34; &gt;2666, Bolano&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review5&#34; &gt;Lonesome Dove, McMurtry&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>On my TOREAD list for 2025</title>
-      <link>https://appapappa.com/reading/toread/</link>
+      <link>http://localhost:1313/reading/toread/</link>
       <pubDate>Tue, 15 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/toread/</guid>
+      <guid>http://localhost:1313/reading/toread/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Books on my TOREAD list for 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📘 Lonesome Dove – Larry McMurtry&#xA;Epic Western of love, loss, and legacy. Heart-forward and unforgettable.&#xA;(Reading before your birthday)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📕 Life and Fate – Vasily Grossman&#xA;A war novel that wrestles with power, morality, and humanity on a massive scale.&#xA;(Reading before your birthday)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📗 In Search of Lost Time – Marcel Proust&#xA;A layered meditation on memory, identity, and the passing of time.&#xA;(Reading from August to December)&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,263 +2,270 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on 🏠</title>
-    <link>https://appapappa.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 16:00:41 +0530</lastBuildDate>
-    <atom:link href="https://appapappa.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 19:51:41 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I have recently read</title>
+      <link>http://localhost:1313/reading/read/</link>
+      <pubDate>Sun, 14 Sep 2025 19:51:41 +0530</pubDate>
+      <guid>http://localhost:1313/reading/read/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;ve recently completed reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review2&#34; &gt;A House for Mr Biswas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review3&#34; &gt;The Glass Bead Game&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review1&#34; &gt;The Passion According to G.H.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review4&#34; &gt;2666, Bolano&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review5&#34; &gt;Lonesome Dove, McMurtry&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review6&#34; &gt;4 short books&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review7&#34; &gt;Mother Mary Comes to Me, Arundhati Roy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>In Which Annie Gives It Those Ones</title>
-      <link>https://appapappa.com/playlists/in_which_annie/</link>
+      <link>http://localhost:1313/playlists/in_which_annie/</link>
       <pubDate>Sat, 13 Sep 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/playlists/in_which_annie/</guid>
+      <guid>http://localhost:1313/playlists/in_which_annie/</guid>
       <description>&lt;p&gt;Brilliant movie, great background soundtrack!&lt;/p&gt;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/7n7xn4lhDDYlT6hJbYqKQL?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
+      <title>Mother Mary Comes to Me</title>
+      <link>http://localhost:1313/reading/reviews/review7/</link>
+      <pubDate>Mon, 01 Sep 2025 06:51:41 +0530</pubDate>
+      <guid>http://localhost:1313/reading/reviews/review7/</guid>
+      <description>&lt;p&gt;Brilliant memoir / biography by Arundhati Roy. She can write! Oh my God - wish I could write like that. Her portrait of her mother, Mary Roy, through a biographical recounting of her own life was superb. Took me back to Delhi in the 80&amp;rsquo;s and 90&amp;rsquo;s, a lot seemed similar, though much of her book was set in the &amp;lsquo;60&amp;rsquo;s and &amp;lsquo;70&amp;rsquo;s.&lt;/p&gt;&#xA;&lt;p&gt;Ended up watching the brilliant &amp;ldquo;In Which Annie Gives It Those Ones&amp;rdquo; after reading the book.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>4 short books</title>
-      <link>https://appapappa.com/reading/reviews/review6/</link>
+      <link>http://localhost:1313/reading/reviews/review6/</link>
       <pubDate>Sun, 10 Aug 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review6/</guid>
+      <guid>http://localhost:1313/reading/reviews/review6/</guid>
       <description>&lt;p&gt;Read 4 short books:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The sense of an ending, Julian Barnes: Good, but a bit grim, not to my taste&lt;/li&gt;&#xA;&lt;li&gt;Zorba the Greek: Very Good, and a lot of fun&lt;/li&gt;&#xA;&lt;li&gt;The Razors Edge, Somerset Maugham: Really really good, what writing!&lt;/li&gt;&#xA;&lt;li&gt;Essays after 80, Donald Hall: Fantastic essays&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Lonesome Dove, McMurtry</title>
-      <link>https://appapappa.com/reading/reviews/review5/</link>
+      <link>http://localhost:1313/reading/reviews/review5/</link>
       <pubDate>Mon, 07 Jul 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review5/</guid>
+      <guid>http://localhost:1313/reading/reviews/review5/</guid>
       <description>&lt;p&gt;Read &lt;strong&gt;Lonesome Dove&lt;/strong&gt; recommended to me by my friends Akshay &amp;amp; Shahana over the last few weeks&amp;hellip; it&amp;rsquo;s a long book, adding to the list of long books I&amp;rsquo;ve read this year.&lt;/p&gt;&#xA;&lt;p&gt;I enjoyed the book, but I can&amp;rsquo;t say I got much out of it - it&amp;rsquo;s a rambling story, a bit simple, that captures your attention and keeps you reading. I read most of it during my trip to LA &amp;amp; Phoenix, which made the book come to life more somehow, being set close to the Mexican border (at least to start!).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview in ET Edge</title>
-      <link>https://appapappa.com/teaching/et_edge/</link>
+      <link>http://localhost:1313/teaching/et_edge/</link>
       <pubDate>Sat, 28 Jun 2025 06:39:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/et_edge/</guid>
-      <description>&lt;p&gt;I spoke recently with The Economic Times / ET Edge about the growth of VALORANT in India, and Riot Games&amp;rsquo; hashtag#PlayerFirst, community-driven approach to crafting deep local experiences that celebrates players in the region. Read for more details!&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://appapappa.com/teaching/et_edge.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/teaching/et_edge.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/teaching/et_edge/</guid>
+      <description>&lt;p&gt;I spoke recently with The Economic Times / ET Edge about the growth of VALORANT in India, and Riot Games&amp;rsquo; hashtag#PlayerFirst, community-driven approach to crafting deep local experiences that celebrates players in the region. Read for more details!&lt;/p&gt;&#xA;&lt;iframe src=&#34;http://localhost:1313/teaching/et_edge.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/teaching/et_edge.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>2666, Roberto Bolano</title>
-      <link>https://appapappa.com/reading/reviews/review4/</link>
+      <link>http://localhost:1313/reading/reviews/review4/</link>
       <pubDate>Tue, 10 Jun 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review4/</guid>
+      <guid>http://localhost:1313/reading/reviews/review4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Read this for the most part during the trip to Sikkim. Read a lot of it in the car, on my Kindle.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;2666 was weird. the writing style is simple and captivating, and so much is happening (funnnily, i thought about the various sub-stories and meanderings in the mahabharata). the book about the murders of the women was a gut-punch. the book was like a rogue river, it flowed whereever it wanted, senseless and yet singular. brilliant and headachy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Interview in PC Quest</title>
-      <link>https://appapappa.com/teaching/pcq/</link>
+      <link>http://localhost:1313/teaching/pcq/</link>
       <pubDate>Tue, 10 Jun 2025 06:39:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/pcq/</guid>
-      <description>&lt;p&gt;I used to wait for the monthly PCQuest magazine (&amp;amp; Linux distros!) when I was in college. And so, speaking with PC Quest about VALORANT&amp;rsquo;s 5th anniversary &amp;amp; Riot Games player-focused approach &amp;amp; the journey in India &amp;amp; South Asia made me double-happy! hashtag#VALORANT hashtag#PlayerFocus hashtag#RIOTGames&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://appapappa.com/teaching/pcq.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/teaching/pcq.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/teaching/pcq/</guid>
+      <description>&lt;p&gt;I used to wait for the monthly PCQuest magazine (&amp;amp; Linux distros!) when I was in college. And so, speaking with PC Quest about VALORANT&amp;rsquo;s 5th anniversary &amp;amp; Riot Games player-focused approach &amp;amp; the journey in India &amp;amp; South Asia made me double-happy! hashtag#VALORANT hashtag#PlayerFocus hashtag#RIOTGames&lt;/p&gt;&#xA;&lt;iframe src=&#34;http://localhost:1313/teaching/pcq.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/teaching/pcq.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>West Sikkim: Trip to Pelling, Yuksom, Ravangla</title>
-      <link>https://appapappa.com/writing/old_coders-copy/</link>
+      <link>http://localhost:1313/writing/old_coders-copy/</link>
       <pubDate>Sat, 07 Jun 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/writing/old_coders-copy/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/essays/west_sikkim.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/west_sikkim.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/writing/old_coders-copy/</guid>
+      <description>&lt;iframe src=&#34;http://localhost:1313/essays/west_sikkim.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/west_sikkim.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Favourite Classical Albums</title>
-      <link>https://appapappa.com/playlists/favourite_classical/</link>
+      <link>http://localhost:1313/playlists/favourite_classical/</link>
       <pubDate>Mon, 02 Jun 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/playlists/favourite_classical/</guid>
+      <guid>http://localhost:1313/playlists/favourite_classical/</guid>
       <description>&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/album/69iw6Zy6fh2dSnEgBTZKJE?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/album/0I8vpSE1bSmysN2PhmHoQg?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/album/3cvjMNWg7t46NyDZzujfNg?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/album/5yuG2LEkf7QA9ZGIXldCmy?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>RIOT Games: Interview with Lee Jones</title>
-      <link>https://appapappa.com/teaching/talk_riot_country_mgr/</link>
+      <link>http://localhost:1313/teaching/talk_riot_country_mgr/</link>
       <pubDate>Sun, 01 Jun 2025 10:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/talk_riot_country_mgr/</guid>
+      <guid>http://localhost:1313/teaching/talk_riot_country_mgr/</guid>
       <description>&lt;p&gt;I recently spoke with Lee Jones from Hotspawn - it was a fantastic, freewheeling conversation about my journey from Microsoft &amp;amp; Google to Riot Games, my day-to-day job, League of Legends, VALORANT&amp;rsquo;s 5th year anniversary, and local publishing strategy. Sharing the ~27 min video, and a link to the summary article as well.&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/1SkiiCxXWzY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Gen AI: Giving Old Coders New Life!</title>
-      <link>https://appapappa.com/writing/old_coders/</link>
+      <link>http://localhost:1313/writing/old_coders/</link>
       <pubDate>Thu, 29 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/writing/old_coders/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/essays/old_coders.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/old_coders.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/writing/old_coders/</guid>
+      <description>&lt;iframe src=&#34;http://localhost:1313/essays/old_coders.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/old_coders.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>(Soft!) Rock like it&#39;s 1998!</title>
-      <link>https://appapappa.com/playlists/rock_1998/</link>
+      <link>http://localhost:1313/playlists/rock_1998/</link>
       <pubDate>Wed, 28 May 2025 08:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/playlists/rock_1998/</guid>
+      <guid>http://localhost:1313/playlists/rock_1998/</guid>
       <description>&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/5Vjhnd1knJyua1FDGUEIZh?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>The Passion According to G.H, Clarice Lispector</title>
-      <link>https://appapappa.com/reading/reviews/review1/</link>
+      <link>http://localhost:1313/reading/reviews/review1/</link>
       <pubDate>Mon, 26 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review1/</guid>
+      <guid>http://localhost:1313/reading/reviews/review1/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Finished reading on 26/06/2025&lt;/li&gt;&#xA;&lt;li&gt;Brilliant book, 5 stars, real gut-punch&lt;/li&gt;&#xA;&lt;li&gt;Disgustingly good short book&lt;/li&gt;&#xA;&lt;li&gt;Disturbing, awakening&lt;/li&gt;&#xA;&lt;li&gt;Themes/Thoughts:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Living in the moment / action orientation, rather than &amp;ldquo;hope&amp;rdquo; which is hopeless and in the future&lt;/li&gt;&#xA;&lt;li&gt;The Sacred in everything, even (and especially in the profane)&lt;/li&gt;&#xA;&lt;li&gt;To not construct concepts through words (like &amp;lsquo;beauty&amp;rsquo;, etc.)&lt;/li&gt;&#xA;&lt;li&gt;To reject sensitivity and sentimentality&lt;/li&gt;&#xA;&lt;li&gt;To know what you need, and to fulfill it: To strive, to live&lt;/li&gt;&#xA;&lt;li&gt;To not be heroic, and to take tiny steps&lt;/li&gt;&#xA;&lt;li&gt;To be inhuman, beyond human, alive&lt;/li&gt;&#xA;&lt;li&gt;To be &amp;ldquo;independed&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Some quotes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;Cast of this humanization&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;This obsession with the future&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;This obsession with naming things&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Organizing -&amp;gt; leading to not experiencing&lt;/li&gt;&#xA;&lt;li&gt;Material world&lt;/li&gt;&#xA;&lt;li&gt;The bordom / in-between is reality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Key concepts&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The limits of langauge (speaking the unknowable)&lt;/li&gt;&#xA;&lt;li&gt;The collapse of identity&lt;/li&gt;&#xA;&lt;li&gt;The obsession with form and destruction&lt;/li&gt;&#xA;&lt;li&gt;Sacred in the profane&lt;/li&gt;&#xA;&lt;li&gt;Time and being&lt;/li&gt;&#xA;&lt;li&gt;Death and resurrection&lt;/li&gt;&#xA;&lt;li&gt;Asking v/s Being&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Related to&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Neitsche, Spinoza&lt;/li&gt;&#xA;&lt;li&gt;Panentheism, Buddhism&lt;/li&gt;&#xA;&lt;li&gt;Confucious and Dao resolution&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Product Craft</title>
-      <link>https://appapappa.com/teaching/product_craft/</link>
+      <link>http://localhost:1313/teaching/product_craft/</link>
       <pubDate>Mon, 19 May 2025 10:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/product_craft/</guid>
+      <guid>http://localhost:1313/teaching/product_craft/</guid>
       <description>&lt;p&gt;A few months ago a close friend asked if I could run a Product Craft 101 workshop at her company. They wanted to coach people who were in traditional client program management roles (in an Enterprise SaaS context) to move towards product innovation. I enjoyed running the workshop - building new products is fun &amp;amp; I was able to share my excitement for the craft of building products with the participants!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Best Indian Hip Hop</title>
-      <link>https://appapappa.com/playlists/best_indian_hip_hop/</link>
+      <link>http://localhost:1313/playlists/best_indian_hip_hop/</link>
       <pubDate>Sat, 17 May 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/playlists/best_indian_hip_hop/</guid>
+      <guid>http://localhost:1313/playlists/best_indian_hip_hop/</guid>
       <description>&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/7kYO7eSctk5dBhJ5zoL2rI?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>What I am reading</title>
-      <link>https://appapappa.com/reading/reading/</link>
+      <link>http://localhost:1313/reading/reading/</link>
       <pubDate>Fri, 16 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reading/</guid>
+      <guid>http://localhost:1313/reading/reading/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;m reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Godel, Escher, Bach&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Build, Write, Teach to Learn</title>
-      <link>https://appapappa.com/pins/learning/</link>
+      <link>http://localhost:1313/pins/learning/</link>
       <pubDate>Wed, 14 May 2025 18:25:25 +0530</pubDate>
-      <guid>https://appapappa.com/pins/learning/</guid>
+      <guid>http://localhost:1313/pins/learning/</guid>
       <description>&lt;p&gt;One of my mentors used to say, &amp;ldquo;Make promises that you don&amp;rsquo;t know how to keep&amp;rdquo;. This is powerful; it implies that once you&amp;rsquo;ve committed to something, you find the ways to make it happen. Many of us think of learning first and then building, learning first and then teaching, learning first and then writing; however, power comes from flipping the playbook: commit to building, writing, or teaching, and then learn whatever it takes to make it happen&amp;hellip; #Learning #Building #Writing #Teaching&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Glass Bead Game</title>
-      <link>https://appapappa.com/reading/reviews/review3/</link>
+      <link>http://localhost:1313/reading/reviews/review3/</link>
       <pubDate>Sun, 11 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review3/</guid>
+      <guid>http://localhost:1313/reading/reviews/review3/</guid>
       <description>&lt;p&gt;My quick jotting down / notes&amp;hellip; and discussions with chatgpt!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;few things stood out:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;age of feuilleton felt very relatable to what&amp;rsquo;s happening with memes and instagram etc. right now&lt;/li&gt;&#xA;&lt;li&gt;his friends - tegularius, designori, and his influences - jacobius, music master were written well.&lt;/li&gt;&#xA;&lt;li&gt;i could see some of myself in the characters themselves: my leaving microsoft and the conversations i had then with my mentors felt parallel to the last chapter, esp. because i left at the peak; i could also relate to tegularius (overly intellectual, not in the world) and to designori (worn down by the cares of the world, stopping meditation, drinking more)&amp;hellip; it was fascinating&amp;hellip;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Going back to the book, The Glass Bead Game, the book seems to be written by a fairly modest biographer. Is this ironic? It makes the book harder to read than, let&amp;rsquo;s say, Siddhartha by Hermann Hesse. So clearly Hermann Hesse is a brilliant writer, but was affecting the tone of a modest biographer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fun with FundAIs!</title>
-      <link>https://appapappa.com/teaching/ai_workshop_nexus/</link>
+      <link>http://localhost:1313/teaching/ai_workshop_nexus/</link>
       <pubDate>Fri, 02 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/ai_workshop_nexus/</guid>
-      <description>&lt;p&gt;Did a workshop for my friends at Nexus Consulting on how to use Artificial Intelligence in their work for Indica and other quizzes&amp;hellip;got a nice photo with the team, here:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://appapappa.com/teaching/nexus_1.jpg&#34; alt=&#34;Nexus&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I used &lt;a href=&#34;https://excalidraw.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ExcaliDraw&lt;/a&gt; for the workshop, and Excalidraw file can be downloaded from here &lt;a href=&#34;https://appapappa.com/teaching/nexus_workshop.excalidraw&#34; &gt;Excali for Nexus&lt;/a&gt; (save the file, and open with Excalidraw)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://appapappa.com/teaching/nexus_workshop.excalidraw.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/teaching/ai_workshop_nexus/</guid>
+      <description>&lt;p&gt;Did a workshop for my friends at Nexus Consulting on how to use Artificial Intelligence in their work for Indica and other quizzes&amp;hellip;got a nice photo with the team, here:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/teaching/nexus_1.jpg&#34; alt=&#34;Nexus&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I used &lt;a href=&#34;https://excalidraw.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ExcaliDraw&lt;/a&gt; for the workshop, and Excalidraw file can be downloaded from here &lt;a href=&#34;http://localhost:1313/teaching/nexus_workshop.excalidraw&#34; &gt;Excali for Nexus&lt;/a&gt; (save the file, and open with Excalidraw)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/teaching/nexus_workshop.excalidraw.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A House for Mr. Biswas</title>
-      <link>https://appapappa.com/reading/reviews/review2/</link>
+      <link>http://localhost:1313/reading/reviews/review2/</link>
       <pubDate>Fri, 02 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/reviews/review2/</guid>
+      <guid>http://localhost:1313/reading/reviews/review2/</guid>
       <description>&lt;p&gt;My quick jotting down&amp;hellip; &amp;ldquo;I completed reading A House for Mr. Biswas. It was really good. I really liked how the story was just constructed really beautifully with humor, pathos, disgust, sadness. It was a great humanist novel: struggling, struggling for more, despite circumstances that hold you back, wanting more, rebelling against custom, not knowing why and yet trying to find your own path. I could imagine it made into a great movie, by someone like Satyajit Ray&amp;hellip; overall, I loved the book.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Human AI, Machine AI: A letter</title>
-      <link>https://appapappa.com/writing/human_machine_ai/</link>
+      <link>http://localhost:1313/writing/human_machine_ai/</link>
       <pubDate>Fri, 02 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/writing/human_machine_ai/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/essays/human_machine_ai.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/human_machine_ai.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/writing/human_machine_ai/</guid>
+      <description>&lt;iframe src=&#34;http://localhost:1313/essays/human_machine_ai.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/human_machine_ai.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>The Thought Whisperer</title>
-      <link>https://appapappa.com/teaching/ai_workshop_streamalive/</link>
+      <link>http://localhost:1313/teaching/ai_workshop_streamalive/</link>
       <pubDate>Thu, 01 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/ai_workshop_streamalive/</guid>
-      <description>&lt;p&gt;Did a workshop for my friends at StreamAlive on how to get better at prompting, called &amp;ldquo;The Thought Whisperer&amp;rdquo;&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ud_sM-P0eRI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;https://appapappa.com/teaching/thought_whisperer.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What I have recently read</title>
-      <link>https://appapappa.com/reading/read/</link>
-      <pubDate>Thu, 01 May 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/read/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Books I&amp;rsquo;ve recently completed reading&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review2&#34; &gt;A House for Mr Biswas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review3&#34; &gt;The Glass Bead Game&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review1&#34; &gt;The Passion According to G.H.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review4&#34; &gt;2666, Bolano&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;../reviews/review5&#34; &gt;Lonesome Dove, McMurtry&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/teaching/ai_workshop_streamalive/</guid>
+      <description>&lt;p&gt;Did a workshop for my friends at StreamAlive on how to get better at prompting, called &amp;ldquo;The Thought Whisperer&amp;rdquo;&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Ud_sM-P0eRI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/teaching/thought_whisperer.svg&#34; alt=&#34;Sketch of XYZ&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Raven Rock</title>
-      <link>https://appapappa.com/playlists/raven_rock/</link>
+      <link>http://localhost:1313/playlists/raven_rock/</link>
       <pubDate>Thu, 01 May 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/playlists/raven_rock/</guid>
+      <guid>http://localhost:1313/playlists/raven_rock/</guid>
       <description>&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/3fZRf2x89AwpIf0aMWw6G0?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Understanding MCP: Op Ed</title>
-      <link>https://appapappa.com/writing/understanding_mcp/</link>
+      <link>http://localhost:1313/writing/understanding_mcp/</link>
       <pubDate>Sun, 27 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/writing/understanding_mcp/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;&#xD;&#xA;&lt;!-- &#xD;&#xA;&lt;embed src=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;&#xD;&#xA;&gt;</description>
+      <guid>http://localhost:1313/writing/understanding_mcp/</guid>
+      <description>&lt;iframe src=&#34;http://localhost:1313/essays/understanding_mcp.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/understanding_mcp.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;&#xD;&#xA;&lt;!-- &#xD;&#xA;&lt;embed src=&#34;http://localhost:1313/essays/understanding_mcp.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;&#xD;&#xA;&gt;</description>
     </item>
     <item>
       <title>Breathe</title>
-      <link>https://appapappa.com/pins/breathe/</link>
+      <link>http://localhost:1313/pins/breathe/</link>
       <pubDate>Thu, 24 Apr 2025 05:34:25 +0530</pubDate>
-      <guid>https://appapappa.com/pins/breathe/</guid>
-      <description>&lt;p&gt;s&#xA;&lt;img src=&#34;https://appapappa.com/pins/breathe.jpeg&#34; alt=&#34;Breathe&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pins/breathe/</guid>
+      <description>&lt;p&gt;s&#xA;&lt;img src=&#34;http://localhost:1313/pins/breathe.jpeg&#34; alt=&#34;Breathe&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Way</title>
-      <link>https://appapappa.com/pins/theway/</link>
+      <link>http://localhost:1313/pins/theway/</link>
       <pubDate>Tue, 22 Apr 2025 08:25:25 +0530</pubDate>
-      <guid>https://appapappa.com/pins/theway/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://appapappa.com/pins/theway.png&#34; alt=&#34;Breathe&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pins/theway/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/pins/theway.png&#34; alt=&#34;Breathe&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Kaizala: Zero to One Hundred!</title>
-      <link>https://appapappa.com/teaching/talk_kaizala/</link>
+      <link>http://localhost:1313/teaching/talk_kaizala/</link>
       <pubDate>Mon, 21 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/talk_kaizala/</guid>
+      <guid>http://localhost:1313/teaching/talk_kaizala/</guid>
       <description>&lt;p&gt;I spoke with Shreyas about building Kaizala&amp;hellip;&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4eSBegab7-c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Useless Fellows: An essay</title>
-      <link>https://appapappa.com/writing/useless_fellows/</link>
+      <link>http://localhost:1313/writing/useless_fellows/</link>
       <pubDate>Mon, 21 Apr 2025 06:39:41 +0530</pubDate>
-      <guid>https://appapappa.com/writing/useless_fellows/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/essays/useless_fellows.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/useless_fellows.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/writing/useless_fellows/</guid>
+      <description>&lt;iframe src=&#34;http://localhost:1313/essays/useless_fellows.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/useless_fellows.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>On my TOREAD list for 2025</title>
-      <link>https://appapappa.com/reading/toread/</link>
+      <link>http://localhost:1313/reading/toread/</link>
       <pubDate>Tue, 15 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/reading/toread/</guid>
+      <guid>http://localhost:1313/reading/toread/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Books on my TOREAD list for 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📘 Lonesome Dove – Larry McMurtry&#xA;Epic Western of love, loss, and legacy. Heart-forward and unforgettable.&#xA;(Reading before your birthday)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📕 Life and Fate – Vasily Grossman&#xA;A war novel that wrestles with power, morality, and humanity on a massive scale.&#xA;(Reading before your birthday)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📗 In Search of Lost Time – Marcel Proust&#xA;A layered meditation on memory, identity, and the passing of time.&#xA;(Reading from August to December)&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI could be Kriti-cal!</title>
-      <link>https://appapappa.com/teaching/ai_workshop_2/</link>
+      <link>http://localhost:1313/teaching/ai_workshop_2/</link>
       <pubDate>Sat, 05 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/ai_workshop_2/</guid>
-      <description>&lt;p&gt;Kanchuki &amp;amp; I did a workshop on Artificial Intelligence with the Kriti team, including several government school computer science teachers from Hyderabad&amp;hellip;&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://appapappa.com/teaching/ai4all_2.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/teaching/ai4all_2.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/teaching/ai_workshop_2/</guid>
+      <description>&lt;p&gt;Kanchuki &amp;amp; I did a workshop on Artificial Intelligence with the Kriti team, including several government school computer science teachers from Hyderabad&amp;hellip;&lt;/p&gt;&#xA;&lt;iframe src=&#34;http://localhost:1313/teaching/ai4all_2.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/teaching/ai4all_2.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>When Coffee and Kale Compete</title>
-      <link>https://appapappa.com/interests/product/wcakc/</link>
+      <link>http://localhost:1313/interests/product/wcakc/</link>
       <pubDate>Sat, 22 Mar 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/interests/product/wcakc/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/interests/product/WCAKC.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/interests/product/WCAKC.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/interests/product/wcakc/</guid>
+      <description>&lt;iframe src=&#34;http://localhost:1313/interests/product/WCAKC.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/interests/product/WCAKC.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>With a little help from my friends!</title>
-      <link>https://appapappa.com/teaching/ai_workshop_1/</link>
+      <link>http://localhost:1313/teaching/ai_workshop_1/</link>
       <pubDate>Sat, 22 Mar 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/ai_workshop_1/</guid>
-      <description>&lt;p&gt;Kanchuki &amp;amp; I conducted our first workshop on Artificial Intelligence to an audience of our guinea pig friends, who were fantastic!&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://appapappa.com/teaching/ai4all_1.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/teaching/ai4all_1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/teaching/ai_workshop_1/</guid>
+      <description>&lt;p&gt;Kanchuki &amp;amp; I conducted our first workshop on Artificial Intelligence to an audience of our guinea pig friends, who were fantastic!&lt;/p&gt;&#xA;&lt;iframe src=&#34;http://localhost:1313/teaching/ai4all_1.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/teaching/ai4all_1.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Teenage Mutant English Music</title>
-      <link>https://appapappa.com/playlists/teenage_english/</link>
+      <link>http://localhost:1313/playlists/teenage_english/</link>
       <pubDate>Sun, 19 May 2024 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/playlists/teenage_english/</guid>
+      <guid>http://localhost:1313/playlists/teenage_english/</guid>
       <description>&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/0hcnoNGldjbPF8n0X9Jk07?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>My product management journey</title>
-      <link>https://appapappa.com/teaching/talk_building_products/</link>
+      <link>http://localhost:1313/teaching/talk_building_products/</link>
       <pubDate>Thu, 09 May 2024 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/teaching/talk_building_products/</guid>
+      <guid>http://localhost:1313/teaching/talk_building_products/</guid>
       <description>&lt;p&gt;I spoke with my friend James Hsu about my product management journey&amp;hellip;&lt;/p&gt;&#xA;&#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/f6-jdJ9_UCU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>GenX Dad&#39;s Guide to Taylor Swift</title>
-      <link>https://appapappa.com/playlists/taylor/</link>
+      <link>http://localhost:1313/playlists/taylor/</link>
       <pubDate>Sun, 18 Feb 2024 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/playlists/taylor/</guid>
+      <guid>http://localhost:1313/playlists/taylor/</guid>
       <description>&lt;iframe style=&#34;border-radius:12px&#34; src=&#34;https://open.spotify.com/embed/playlist/5tlUYMS4aBdxa1h5HjzgHg?utm_source=generator&#34; width=&#34;100%&#34; height=&#34;352&#34; frameBorder=&#34;0&#34; allowfullscreen=&#34;&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Marjorie Gluten: A poem</title>
-      <link>https://appapappa.com/writing/gluten/</link>
+      <link>http://localhost:1313/writing/gluten/</link>
       <pubDate>Wed, 12 Mar 2014 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/writing/gluten/</guid>
-      <description>&lt;iframe src=&#34;https://appapappa.com/essays/gluten.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/gluten.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>http://localhost:1313/writing/gluten/</guid>
+      <description>&lt;iframe src=&#34;http://localhost:1313/essays/gluten.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/gluten.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>

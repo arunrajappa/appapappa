@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 🏠</title>
-    <link>https://appapappa.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 16:00:41 +0530</lastBuildDate>
-    <atom:link href="https://appapappa.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Sep 2025 19:51:41 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Music</title>
-      <link>https://appapappa.com/categories/music/</link>
-      <pubDate>Sat, 13 Sep 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/music/</guid>
+      <title>Books</title>
+      <link>http://localhost:1313/categories/books/</link>
+      <pubDate>Sun, 14 Sep 2025 19:51:41 +0530</pubDate>
+      <guid>http://localhost:1313/categories/books/</guid>
       <description></description>
     </item>
     <item>
-      <title>Books</title>
-      <link>https://appapappa.com/categories/books/</link>
-      <pubDate>Sun, 10 Aug 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/books/</guid>
+      <title>Music</title>
+      <link>http://localhost:1313/categories/music/</link>
+      <pubDate>Sat, 13 Sep 2025 16:00:41 +0530</pubDate>
+      <guid>http://localhost:1313/categories/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Featured</title>
-      <link>https://appapappa.com/categories/featured/</link>
+      <link>http://localhost:1313/categories/featured/</link>
       <pubDate>Sat, 28 Jun 2025 06:39:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/featured/</guid>
+      <guid>http://localhost:1313/categories/featured/</guid>
       <description></description>
     </item>
     <item>
       <title>Essays</title>
-      <link>https://appapappa.com/categories/essays/</link>
+      <link>http://localhost:1313/categories/essays/</link>
       <pubDate>Sat, 07 Jun 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/essays/</guid>
+      <guid>http://localhost:1313/categories/essays/</guid>
       <description></description>
     </item>
     <item>
       <title>Talk</title>
-      <link>https://appapappa.com/categories/talk/</link>
+      <link>http://localhost:1313/categories/talk/</link>
       <pubDate>Sun, 01 Jun 2025 10:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/talk/</guid>
+      <guid>http://localhost:1313/categories/talk/</guid>
       <description></description>
     </item>
     <item>
       <title>Poems</title>
-      <link>https://appapappa.com/categories/poems/</link>
+      <link>http://localhost:1313/categories/poems/</link>
       <pubDate>Thu, 29 May 2025 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/poems/</guid>
+      <guid>http://localhost:1313/categories/poems/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>https://appapappa.com/categories/workshop/</link>
+      <link>http://localhost:1313/categories/workshop/</link>
       <pubDate>Mon, 19 May 2025 10:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/workshop/</guid>
+      <guid>http://localhost:1313/categories/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Article</title>
-      <link>https://appapappa.com/categories/article/</link>
+      <link>http://localhost:1313/categories/article/</link>
       <pubDate>Sun, 27 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/article/</guid>
+      <guid>http://localhost:1313/categories/article/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>https://appapappa.com/categories/podcast/</link>
+      <link>http://localhost:1313/categories/podcast/</link>
       <pubDate>Mon, 21 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/podcast/</guid>
+      <guid>http://localhost:1313/categories/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Book</title>
-      <link>https://appapappa.com/categories/book/</link>
+      <link>http://localhost:1313/categories/book/</link>
       <pubDate>Sat, 22 Mar 2025 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/book/</guid>
+      <guid>http://localhost:1313/categories/book/</guid>
       <description></description>
     </item>
   </channel>
