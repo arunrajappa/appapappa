@@ -6,8 +6,15 @@
     <description>Recent content in Reflective on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 06:51:41 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 08:25:25 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/reflective/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mindfulness</title>
+      <link>http://localhost:1313/pins/mindfulness/</link>
+      <pubDate>Mon, 15 Sep 2025 08:25:25 +0530</pubDate>
+      <guid>http://localhost:1313/pins/mindfulness/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/pins/mindfulness.png&#34; alt=&#34;Mindfulness&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gen AI: Giving Old Coders New Life!</title>
       <link>http://localhost:1313/writing/old_coders/</link>

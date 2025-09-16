@@ -6,8 +6,15 @@
     <description>Recent content in Pins on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2025 18:25:25 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 08:25:25 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/pins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mindfulness</title>
+      <link>http://localhost:1313/pins/mindfulness/</link>
+      <pubDate>Mon, 15 Sep 2025 08:25:25 +0530</pubDate>
+      <guid>http://localhost:1313/pins/mindfulness/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/pins/mindfulness.png&#34; alt=&#34;Mindfulness&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Build, Write, Teach to Learn</title>
       <link>http://localhost:1313/pins/learning/</link>

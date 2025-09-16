@@ -6,8 +6,15 @@
     <description>Recent content in Tags on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Sep 2025 19:51:41 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 08:25:25 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflective</title>
+      <link>http://localhost:1313/tags/reflective/</link>
+      <pubDate>Mon, 15 Sep 2025 08:25:25 +0530</pubDate>
+      <guid>http://localhost:1313/tags/reflective/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Completed</title>
       <link>http://localhost:1313/tags/completed/</link>
@@ -62,13 +69,6 @@
       <link>http://localhost:1313/tags/gaming/</link>
       <pubDate>Sun, 01 Jun 2025 10:51:41 +0530</pubDate>
       <guid>http://localhost:1313/tags/gaming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reflective</title>
-      <link>http://localhost:1313/tags/reflective/</link>
-      <pubDate>Thu, 29 May 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/tags/reflective/</guid>
       <description></description>
     </item>
     <item>
