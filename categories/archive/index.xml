@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archives on 🏠</title>
-    <link>https://appapappa.com/archives/</link>
-    <description>Recent content in Archives on 🏠</description>
+    <title>Archive on 🏠</title>
+    <link>https://appapappa.com/categories/archive/</link>
+    <description>Recent content in Archive on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Dec 2017 06:51:41 +0530</lastBuildDate>
-    <atom:link href="https://appapappa.com/archives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/categories/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2017 -- Kaizala, BillG, and My Mothers</title>
       <link>https://appapappa.com/archives/my_mothers/</link>
