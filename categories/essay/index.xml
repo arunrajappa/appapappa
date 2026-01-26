@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essay on 🏠</title>
-    <link>http://localhost:1313/categories/essay/</link>
+    <link>https://appapappa.com/categories/essay/</link>
     <description>Recent content in Essay on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Nov 2025 06:51:41 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/essay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/categories/essay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI: A Poor Name</title>
-      <link>http://localhost:1313/writing/ai_a_poor_name/</link>
+      <link>https://appapappa.com/writing/ai_a_poor_name/</link>
       <pubDate>Wed, 26 Nov 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/ai_a_poor_name/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/ai_a_poor_name.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/ai_a_poor_name.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/ai_a_poor_name/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/ai_a_poor_name.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/ai_a_poor_name.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>The Blackbox and the Bazaar</title>
-      <link>http://localhost:1313/writing/the_blackbox_and_the_bazaar/</link>
+      <link>https://appapappa.com/writing/the_blackbox_and_the_bazaar/</link>
       <pubDate>Wed, 26 Nov 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/the_blackbox_and_the_bazaar/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/the_blackbox_and_the_bazaar.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/the_blackbox_and_the_bazaar.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/the_blackbox_and_the_bazaar/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/the_blackbox_and_the_bazaar.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/the_blackbox_and_the_bazaar.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>

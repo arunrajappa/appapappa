@@ -2,88 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on 🏠</title>
-    <link>http://localhost:1313/writing/</link>
+    <link>https://appapappa.com/writing/</link>
     <description>Recent content in Writing on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Nov 2025 06:51:41 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://appapappa.com/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI: A Poor Name</title>
-      <link>http://localhost:1313/writing/ai_a_poor_name/</link>
+      <link>https://appapappa.com/writing/ai_a_poor_name/</link>
       <pubDate>Wed, 26 Nov 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/ai_a_poor_name/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/ai_a_poor_name.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/ai_a_poor_name.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/ai_a_poor_name/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/ai_a_poor_name.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/ai_a_poor_name.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>The Blackbox and the Bazaar</title>
-      <link>http://localhost:1313/writing/the_blackbox_and_the_bazaar/</link>
+      <link>https://appapappa.com/writing/the_blackbox_and_the_bazaar/</link>
       <pubDate>Wed, 26 Nov 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/the_blackbox_and_the_bazaar/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/the_blackbox_and_the_bazaar.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/the_blackbox_and_the_bazaar.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/the_blackbox_and_the_bazaar/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/the_blackbox_and_the_bazaar.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/the_blackbox_and_the_bazaar.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>I need a God to believe in: A poem</title>
-      <link>http://localhost:1313/writing/i_need_a_god/</link>
+      <link>https://appapappa.com/writing/i_need_a_god/</link>
       <pubDate>Sat, 15 Nov 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/i_need_a_god/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/i_need_a_god_to_believe_in.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/i_need_a_god_to_believe_in.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/i_need_a_god/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/i_need_a_god_to_believe_in.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/i_need_a_god_to_believe_in.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Singapore Sling</title>
-      <link>http://localhost:1313/writing/singapore_sling/</link>
+      <link>https://appapappa.com/writing/singapore_sling/</link>
       <pubDate>Wed, 12 Nov 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/singapore_sling/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/singapore_sling.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/singapore_sling.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>If you give a transformer a token</title>
-      <link>http://localhost:1313/writing/if_you_give_a_transformer_a_token/</link>
-      <pubDate>Tue, 11 Nov 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/if_you_give_a_transformer_a_token/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/if_you_give_a_transformer_a_token.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/if_you_give_a_transformer_a_token.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/singapore_sling/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/singapore_sling.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/singapore_sling.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>West Sikkim: Trip to Pelling, Yuksom, Ravangla</title>
-      <link>http://localhost:1313/writing/west_sikkim_pelling/</link>
+      <link>https://appapappa.com/writing/west_sikkim_pelling/</link>
       <pubDate>Sat, 07 Jun 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/west_sikkim_pelling/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/west_sikkim.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/west_sikkim.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/west_sikkim_pelling/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/west_sikkim.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/west_sikkim.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Gen AI: Giving Old Coders New Life!</title>
-      <link>http://localhost:1313/writing/old_coders/</link>
+      <link>https://appapappa.com/writing/old_coders/</link>
       <pubDate>Thu, 29 May 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/old_coders/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/old_coders.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/old_coders.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/old_coders/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/old_coders.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/old_coders.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Human AI, Machine AI: A letter</title>
-      <link>http://localhost:1313/writing/human_machine_ai/</link>
+      <link>https://appapappa.com/writing/human_machine_ai/</link>
       <pubDate>Fri, 02 May 2025 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/human_machine_ai/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/human_machine_ai.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/human_machine_ai.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/human_machine_ai/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/human_machine_ai.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/human_machine_ai.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Understanding MCP: Op Ed</title>
-      <link>http://localhost:1313/writing/understanding_mcp/</link>
+      <link>https://appapappa.com/writing/understanding_mcp/</link>
       <pubDate>Sun, 27 Apr 2025 19:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/understanding_mcp/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/understanding_mcp.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/understanding_mcp.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;&#xD;&#xA;&lt;!-- &#xD;&#xA;&lt;embed src=&#34;http://localhost:1313/essays/understanding_mcp.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;&#xD;&#xA;&gt;</description>
+      <guid>https://appapappa.com/writing/understanding_mcp/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;&#xD;&#xA;&lt;!-- &#xD;&#xA;&lt;embed src=&#34;https://appapappa.com/essays/understanding_mcp.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; /&gt;&#xD;&#xA;&gt;</description>
     </item>
     <item>
       <title>Useless Fellows: An essay</title>
-      <link>http://localhost:1313/writing/useless_fellows/</link>
+      <link>https://appapappa.com/writing/useless_fellows/</link>
       <pubDate>Mon, 21 Apr 2025 06:39:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/useless_fellows/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/useless_fellows.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/useless_fellows.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/useless_fellows/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/useless_fellows.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/useless_fellows.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Marjorie Gluten: A poem</title>
-      <link>http://localhost:1313/writing/gluten/</link>
+      <link>https://appapappa.com/writing/gluten/</link>
       <pubDate>Wed, 12 Mar 2014 06:51:41 +0530</pubDate>
-      <guid>http://localhost:1313/writing/gluten/</guid>
-      <description>&lt;iframe src=&#34;http://localhost:1313/essays/gluten.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/essays/gluten.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
+      <guid>https://appapappa.com/writing/gluten/</guid>
+      <description>&lt;iframe src=&#34;https://appapappa.com/essays/gluten.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&#xD;&#xA;    This browser does not support PDFs. Please download the PDF to view it:&#xD;&#xA;    &lt;a href=&#34;https://appapappa.com/essays/gluten.pdf&#34;&gt;Download PDF&lt;/a&gt;.&#xD;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>
