@@ -1,11 +1,7 @@
 {
 	"version": 3,
 	"file": "coder.css",
-<<<<<<< HEAD
 	"sourceRoot": "C:/Users/arunr/CleanSlate/appapappa",
-=======
-	"sourceRoot": "C:/Users/arunr/2026/website/appapappa",
->>>>>>> 2f071df15851df48780d137e2897302d7aa186a8
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder.scss",
 		"themes/hugo-coder/assets/scss/css/normalize.css",

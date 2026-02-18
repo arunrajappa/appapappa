@@ -6,22 +6,8 @@
     <description>Recent content in Categories on 🏠</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jan 2026 16:00:41 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:51:41 +0530</lastBuildDate>
     <atom:link href="https://appapappa.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Music</title>
-      <link>https://appapappa.com/categories/music/</link>
-      <pubDate>Thu, 22 Jan 2026 16:00:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>https://appapappa.com/categories/books/</link>
-      <pubDate>Thu, 22 Jan 2026 06:51:41 +0530</pubDate>
-      <guid>https://appapappa.com/categories/books/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Essay</title>
       <link>https://appapappa.com/categories/essay/</link>
@@ -55,6 +41,20 @@
       <link>https://appapappa.com/categories/story/</link>
       <pubDate>Wed, 12 Nov 2025 06:51:41 +0530</pubDate>
       <guid>https://appapappa.com/categories/story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://appapappa.com/categories/music/</link>
+      <pubDate>Fri, 10 Oct 2025 16:00:41 +0530</pubDate>
+      <guid>https://appapappa.com/categories/music/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>https://appapappa.com/categories/books/</link>
+      <pubDate>Sun, 14 Sep 2025 19:51:41 +0530</pubDate>
+      <guid>https://appapappa.com/categories/books/</guid>
       <description></description>
     </item>
     <item>
