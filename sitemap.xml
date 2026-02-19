@@ -2,22 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://appapappa.com/writing/ai_a_poor_name/</loc>
-    <lastmod>2025-11-26T06:51:41+05:30</lastmod>
-  </url><url>
     <loc>https://appapappa.com/categories/</loc>
+    <lastmod>2026-01-22T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/</loc>
+    <lastmod>2026-01-22T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/playlists/beatlels_and_wings/</loc>
+    <lastmod>2026-01-22T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/categories/music/</loc>
+    <lastmod>2026-01-22T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/playlists/</loc>
+    <lastmod>2026-01-22T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/tags/rock/</loc>
+    <lastmod>2026-01-22T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/tags/</loc>
+    <lastmod>2026-01-22T16:00:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/categories/books/</loc>
+    <lastmod>2026-01-22T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/tags/completed/</loc>
+    <lastmod>2026-01-22T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/reading/</loc>
+    <lastmod>2026-01-22T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/reading/reviews/review8/</loc>
+    <lastmod>2026-01-22T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/writing/ai_a_poor_name/</loc>
     <lastmod>2025-11-26T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/categories/essay/</loc>
     <lastmod>2025-11-26T06:51:41+05:30</lastmod>
   </url><url>
-    <loc>https://appapappa.com/</loc>
-    <lastmod>2025-11-26T06:51:41+05:30</lastmod>
-  </url><url>
     <loc>https://appapappa.com/tags/reflective/</loc>
-    <lastmod>2025-11-26T06:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/tags/</loc>
     <lastmod>2025-11-26T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/writing/the_blackbox_and_the_bazaar/</loc>
@@ -86,19 +110,7 @@
     <loc>https://appapappa.com/categories/story/</loc>
     <lastmod>2025-11-12T06:51:41+05:30</lastmod>
   </url><url>
-    <loc>https://appapappa.com/writing/if_you_give_a_transformer_a_token/</loc>
-    <lastmod>2025-11-11T06:51:41+05:30</lastmod>
-  </url><url>
     <loc>https://appapappa.com/playlists/brit_music/</loc>
-    <lastmod>2025-10-10T16:00:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/categories/music/</loc>
-    <lastmod>2025-10-10T16:00:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/playlists/</loc>
-    <lastmod>2025-10-10T16:00:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/tags/rock/</loc>
     <lastmod>2025-10-10T16:00:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/pins/mindfulness/</loc>
@@ -106,15 +118,6 @@
   </url><url>
     <loc>https://appapappa.com/pins/</loc>
     <lastmod>2025-09-15T08:25:25+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/categories/books/</loc>
-    <lastmod>2025-09-14T19:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/tags/completed/</loc>
-    <lastmod>2025-09-14T19:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/reading/</loc>
-    <lastmod>2025-09-14T19:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/reading/read/</loc>
     <lastmod>2025-09-14T19:51:41+05:30</lastmod>
@@ -302,11 +305,8 @@
     <loc>https://appapappa.com/tags/pop/</loc>
     <lastmod>2024-02-18T16:00:41+05:30</lastmod>
   </url><url>
-    <loc>https://appapappa.com/tags/story/</loc>
-    <lastmod>2021-10-21T06:51:41+05:30</lastmod>
-  </url><url>
-    <loc>https://appapappa.com/writing/the_sea_of_islands/</loc>
-    <lastmod>2021-10-21T06:51:41+05:30</lastmod>
+    <loc>https://appapappa.com/writing/taandthed/</loc>
+    <lastmod>2018-11-15T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/categories/archive/</loc>
     <lastmod>2018-02-04T06:51:41+05:30</lastmod>
@@ -317,13 +317,22 @@
     <loc>https://appapappa.com/archives/blockhead_blockchain/</loc>
     <lastmod>2018-02-04T06:51:41+05:30</lastmod>
   </url><url>
+    <loc>https://appapappa.com/writing/blockhead_blockchain/</loc>
+    <lastmod>2018-02-04T06:51:41+05:30</lastmod>
+  </url><url>
     <loc>https://appapappa.com/tags/medium/</loc>
     <lastmod>2018-02-04T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/archives/my_mothers/</loc>
     <lastmod>2017-12-22T06:51:41+05:30</lastmod>
   </url><url>
+    <loc>https://appapappa.com/writing/my_mothers/</loc>
+    <lastmod>2017-12-22T06:51:41+05:30</lastmod>
+  </url><url>
     <loc>https://appapappa.com/archives/freedom_api/</loc>
+    <lastmod>2015-07-19T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/writing/freedom_api/</loc>
     <lastmod>2015-07-19T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/writing/gluten/</loc>
@@ -332,10 +341,19 @@
     <loc>https://appapappa.com/archives/working_solo/</loc>
     <lastmod>2014-01-04T06:51:41+05:30</lastmod>
   </url><url>
+    <loc>https://appapappa.com/writing/working_solo/</loc>
+    <lastmod>2014-01-04T06:51:41+05:30</lastmod>
+  </url><url>
     <loc>https://appapappa.com/archives/teach_kids_programming/</loc>
     <lastmod>2013-09-14T06:51:41+05:30</lastmod>
   </url><url>
+    <loc>https://appapappa.com/writing/teach_kids_programming/</loc>
+    <lastmod>2013-09-14T06:51:41+05:30</lastmod>
+  </url><url>
     <loc>https://appapappa.com/archives/doctor_public_hospital/</loc>
+    <lastmod>2013-08-05T06:51:41+05:30</lastmod>
+  </url><url>
+    <loc>https://appapappa.com/writing/doctor_public_hospital/</loc>
     <lastmod>2013-08-05T06:51:41+05:30</lastmod>
   </url><url>
     <loc>https://appapappa.com/archives/deep/baking-bread/</loc>
@@ -385,8 +403,6 @@
     <loc>https://appapappa.com/authors/</loc>
   </url><url>
     <loc>https://appapappa.com/interests/spirituality/books/</loc>
-  </url><url>
-    <loc>https://appapappa.com/building/</loc>
   </url><url>
     <loc>https://appapappa.com/interests/india/</loc>
   </url><url>
